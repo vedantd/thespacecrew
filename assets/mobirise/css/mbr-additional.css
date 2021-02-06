@@ -33,6 +33,8 @@
 #features1-5 .mbr-section__col .mbr-header__text {
   text-align: left;
 }
+
+
 #content5-6 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -52,7 +54,7 @@
   font-size: 14px;
 }
 .home-logo {
-    width: 450px;
-    height: 250px;
+    width: 100%;
+    height: auto;
     padding-bottom: 10px;
 }
