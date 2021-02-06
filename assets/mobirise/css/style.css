@@ -832,10 +832,19 @@ html {
 .mbr-hero__subtext {
   font-size: 21px;
   line-height: 29px;
-  margin: -130px 0 3px 0;
+  margin: -32px 0 3px 0;
   padding: 0 0 41px 0;
   position: relative;
   top: 6px;
+}
+#mbr-hero__subtext{
+font-size: 21px;
+  line-height: 29px;
+  margin: -260px 0 3px 0;
+  padding: 0 0 41px 0;
+  position: relative;
+  top: 6px;
+    
 }
 .mbr-figure {
   display: inline-block;
@@ -1416,7 +1425,7 @@ html {
 }
 .mbr-article {
   color: #777;
-  font-size: 17px;
+  font-size: 16px;
   line-height: 27px;
   text-align: left;
   position: relative;
@@ -1463,7 +1472,7 @@ html {
   margin: 0 0 10px 0;
 }
 .mbr-article--wysiwyg blockquote {
-  font-size: 17px;
+  font-size: 1p6x;
   border-color: #f97352;
 }
 @media (max-width: 767px) {
@@ -1605,7 +1614,7 @@ html {
     font-size: 79px;
   }
   .mbr-plan__details {
-    font-size: 17px;
+    font-size: 16px;
   }
   .mbr-plan--favorite {
     margin: 0;
