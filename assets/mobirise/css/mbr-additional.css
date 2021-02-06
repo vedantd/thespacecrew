@@ -51,3 +51,8 @@
 #content1-d DIV {
   font-size: 14px;
 }
+.home-logo {
+    width: 450px;
+    height: 250px;
+    padding-bottom: 10px;
+}
