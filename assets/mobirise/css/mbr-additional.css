@@ -20,3 +20,34 @@
 #slider-1 H1 {
   font-size: 21px;
 }
+#msg-box2-8 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 18px;
+}
+#msg-box2-8 .mbr-article {
+  color: #252525;
+}
+#header3-c H3 {
+  text-align: left;
+}
+#features1-5 .mbr-section__col .mbr-header__text {
+  text-align: left;
+}
+#content5-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+}
+#content5-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-6 .mbr-article {
+  color: #fff;
+}
+#content5-6 .mbr-article P {
+  font-size: 16px;
+}
+#content1-d DIV {
+  font-size: 14px;
+}
